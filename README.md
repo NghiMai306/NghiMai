@@ -1,5 +1,5 @@
 # Hi, I'm Nghi Mai
-I am a Biomedical Engineering with a research background in:
+I am a Biomedical Engineer with a research background in:
 -Tissue Engineering
 -Cell-matrix interactions
 -Regenerative Medicine
